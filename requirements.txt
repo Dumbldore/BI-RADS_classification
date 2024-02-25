@@ -1,0 +1,10 @@
+torch==2.2.0
+torchvision==0.17.0
+pytorch-lightning==2.0.0
+numpy==1.24.2
+Pillow==9.4.0
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+torchmetrics==0.11.4
+imageio==2.27.0
+timm==0.9.16
