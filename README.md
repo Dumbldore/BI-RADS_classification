@@ -57,6 +57,3 @@ Paper to be published
 ```
 
 
-
-
-```
