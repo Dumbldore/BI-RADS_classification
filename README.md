@@ -1,6 +1,3 @@
-Below is a nicely formatted README in Markdown format for your project "Segmentation-based BI-RADS Classification of Breast Tumours in Ultrasound Images". You can copy and paste this into your README.md file in your project repository.
-
-```markdown
 # Segmentation-based BI-RADS Classification of Breast Tumours in Ultrasound Images
 
 This repository contains the code accompanying the paper "Segmentation-based BI-RADS Classification of Breast Tumours in Ultrasound Images." Our work presents a comprehensive approach to classifying breast tumors in ultrasound images based on the BI-RADS system, leveraging a segmentation model to enhance the classification performance.
