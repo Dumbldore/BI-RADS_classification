@@ -53,7 +53,7 @@ This script facilitates the comparison of single-modal and multi-modal approache
 If you find this work useful in your research, please consider citing our paper:
 
 ```
-Paper to be published
+Bobowicz M, Badocha M, Gwozdziewicz K, et al. Segmentation-based BI-RADS ensemble classification of breast tumours in ultrasound images. Int J Med Inform. 2024;189:105522. doi:10.1016/j.ijmedinf.2024.105522
 ```
 
 
